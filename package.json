@@ -1,0 +1,11 @@
+{
+  "name": "atlantis-atv1",
+  "version": "1.0.0",
+  "description": "Atividade 1 da lista Atlantis de Técnicas de Programação 2",
+  "main": "js/teste/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael-Nunes-Silva",
+  "license": "ISC"
+}
